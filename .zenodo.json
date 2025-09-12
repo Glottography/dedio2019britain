@@ -1,0 +1,18 @@
+{
+    "creators": [
+        {
+            "name": "The Glottography Consortium"
+        }
+    ],
+    "title": "Glottography dataset derived from Dedio et al. 2019 \"Evidence for Britain and Ireland as a Linguistic Area\"",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Dedio, Stefan, Peter Ranacher &amp; Paul Widmer. 2019. Evidence for Britain and Ireland as a Linguistic Area. Language 95(3). 498\u2013522. doi: 10.1353/lan.2019.0054.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
