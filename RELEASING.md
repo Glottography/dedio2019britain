@@ -12,7 +12,7 @@ cldfbench download cldfbench_dedio2019britain.py
 ```shell
 cldfbench makecldf cldfbench_dedio2019britain.py --glottolog-version v5.2
 cldfbench cldfreadme cldfbench_dedio2019britain.py
-cldfbench zenodo cldfbench_dedio2019britain.py
+cldfbench zenodo --communities glottography cldfbench_dedio2019britain.py
 cldfbench readme cldfbench_dedio2019britain.py
 ```
 

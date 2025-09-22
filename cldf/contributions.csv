@@ -1,47 +1,50 @@
-ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_ID,Map_Name
-1,Central Breton,,,,bret1244,1900,dedio2019britain,features,Fig. 1.
-2,Danish,,,,dani1285,1900,dedio2019britain,features,Fig. 1.
-3,Faroese,,,,faro1244,1900,dedio2019britain,features,Fig. 1.
-4,Fering,,,,nort2626,1900,dedio2019britain,features,Fig. 1.
-5,Irish English,,,,iris1255,1900,dedio2019britain,features,Fig. 1.
-6,Jèrriais,,,,jerr1238,1900,dedio2019britain,features,Fig. 1.
-7,Late Cornish,,,,corn1251,1900,dedio2019britain,features,Fig. 1.
-8,Manx,,,,manx1243,1900,dedio2019britain,features,Fig. 1.
-9,Middle Breton,,,,midd1359,1200,dedio2019britain,features,Fig. 1.
-10,Middle Cornish,,,,midd1380,1200,dedio2019britain,features,Fig. 1.
-11,Middle Dutch,,,,midd1321,1200,dedio2019britain,features,Fig. 1.
-12,Middle English,,,,midd1317,1200,dedio2019britain,features,Fig. 1.
-13,Middle High German,,,,midd1343,1200,dedio2019britain,features,Fig. 1.
-14,Middle Irish,,,,midd1360,1200,dedio2019britain,features,Fig. 1.
-15,Middle Low German,,,,midd1318,1200,dedio2019britain,features,Fig. 1.
-16,Middle Welsh,,,,midd1363,1200,dedio2019britain,features,Fig. 1.
-17,Modern British English,,,,stan1293,1900,dedio2019britain,features,Fig. 1.
-18,Modern Dutch,,,,dutc1256,1900,dedio2019britain,features,Fig. 1.
-19,Modern High German,,,,stan1295,1900,dedio2019britain,features,Fig. 1.
-20,Modern Icelandic,,,,icel1247,1900,dedio2019britain,features,Fig. 1.
-21,Modern Irish,,,,iris1253,1900,dedio2019britain,features,Fig. 1.
-22,Modern Low German Dithmarschen,,,,dith1234,1900,dedio2019britain,features,Fig. 1.
-23,Modern Low German East Frisia,,,,east2288,1900,dedio2019britain,features,Fig. 1.
-24,Modern Standard French,,,,stan1290,1900,dedio2019britain,features,Fig. 1.
-25,Modern West Frisian,,,,mode1264,1900,dedio2019britain,features,Fig. 1.
-26,Moyen Picard,,,,pica1241,1200,dedio2019britain,features,Fig. 1.
-27,Normand,,,,norm1245,1900,dedio2019britain,features,Fig. 1.
-28,Northern Welsh,,,,nort2668,1900,dedio2019britain,features,Fig. 1.
-29,Norwegian,,,,norw1258,1900,dedio2019britain,features,Fig. 1.
-30,Old Dutch,,,,oldd1238,800,dedio2019britain,features,Fig. 1.
-31,Old English,,,,olde1238,800,dedio2019britain,features,Fig. 1.
-32,Old French (Anglo-Norman),,,,angl1258,1200,dedio2019britain,features,Fig. 1.
-33,Old French (Anglo-Norman),,,,angl1258,800,dedio2019britain,features,Fig. 1.
-34,Old French (Francien),,,,oldf1239,1200,dedio2019britain,features,Fig. 1.
-35,Old French (Francien),,,,oldf1239,800,dedio2019britain,features,Fig. 1.
-36,Old Frisian,,,,oldf1241,1200,dedio2019britain,features,Fig. 1.
-37,Old High German,,,,oldh1241,800,dedio2019britain,features,Fig. 1.
-38,Old Irish,,,,oldi1246,800,dedio2019britain,features,Fig. 1.
-39,Old Norse,,,,oldn1244,1200,dedio2019britain,features,Fig. 1.
-40,Old Norse,,,,oldn1244,800,dedio2019britain,features,Fig. 1.
-41,Old Saxon,,,,olds1250,800,dedio2019britain,features,Fig. 1.
-42,Older Scots,,,,scot1243,1200,dedio2019britain,features,Fig. 1.
-43,Picard,,,,pica1241,1900,dedio2019britain,features,Fig. 1.
-44,Scots,,,,scot1243,1900,dedio2019britain,features,Fig. 1.
-45,Scottish Gaelic,,,,scot1245,1900,dedio2019britain,features,Fig. 1.
-46,Southern Welsh,,,,sout2673,1900,dedio2019britain,features,Fig. 1.
+ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_IDs,Type,Map_IDs
+fig1,Fig. 1.,Map of the sample languages before epoch 1 (800 AD),,,,,dedio2019britain,,map,
+fig2,Fig. 2.,Map of the sample languages before epoch 2 (1200 AD),,,,,dedio2019britain,,map,
+fig3,Fig. 3.,Map of the sample languages after epoch 2 (1900 AD),,,,,dedio2019britain,,map,
+1,Central Breton,,,,bret1244,1900,dedio2019britain,features,feature,fig3
+2,Danish,,,,dani1285,1900,dedio2019britain,features,feature,fig3
+3,Faroese,,,,faro1244,1900,dedio2019britain,features,feature,fig3
+4,Fering,,,,nort2626,1900,dedio2019britain,features,feature,fig3
+5,Irish English,,,,iris1255,1900,dedio2019britain,features,feature,fig3
+6,Jèrriais,,,,jerr1238,1900,dedio2019britain,features,feature,fig3
+7,Late Cornish,,,,corn1251,1900,dedio2019britain,features,feature,fig3
+8,Manx,,,,manx1243,1900,dedio2019britain,features,feature,fig3
+9,Middle Breton,,,,midd1359,1200,dedio2019britain,features,feature,fig2
+10,Middle Cornish,,,,midd1380,1200,dedio2019britain,features,feature,fig2
+11,Middle Dutch,,,,midd1321,1200,dedio2019britain,features,feature,fig2
+12,Middle English,,,,midd1317,1200,dedio2019britain,features,feature,fig2
+13,Middle High German,,,,midd1343,1200,dedio2019britain,features,feature,fig2
+14,Middle Irish,,,,midd1360,1200,dedio2019britain,features,feature,fig2
+15,Middle Low German,,,,midd1318,1200,dedio2019britain,features,feature,fig2
+16,Middle Welsh,,,,midd1363,1200,dedio2019britain,features,feature,fig2
+17,Modern British English,,,,stan1293,1900,dedio2019britain,features,feature,fig3
+18,Modern Dutch,,,,dutc1256,1900,dedio2019britain,features,feature,fig3
+19,Modern High German,,,,stan1295,1900,dedio2019britain,features,feature,fig3
+20,Modern Icelandic,,,,icel1247,1900,dedio2019britain,features,feature,fig3
+21,Modern Irish,,,,iris1253,1900,dedio2019britain,features,feature,fig3
+22,Modern Low German Dithmarschen,,,,dith1234,1900,dedio2019britain,features,feature,fig3
+23,Modern Low German East Frisia,,,,east2288,1900,dedio2019britain,features,feature,fig3
+24,Modern Standard French,,,,stan1290,1900,dedio2019britain,features,feature,fig3
+25,Modern West Frisian,,,,mode1264,1900,dedio2019britain,features,feature,fig3
+26,Moyen Picard,,,,pica1241,1200,dedio2019britain,features,feature,fig2
+27,Normand,,,,norm1245,1900,dedio2019britain,features,feature,fig3
+28,Northern Welsh,,,,nort2668,1900,dedio2019britain,features,feature,fig3
+29,Norwegian,,,,norw1258,1900,dedio2019britain,features,feature,fig3
+30,Old Dutch,,,,oldd1238,800,dedio2019britain,features,feature,fig1
+31,Old English,,,,olde1238,800,dedio2019britain,features,feature,fig1
+32,Old French (Anglo-Norman),,,,angl1258,1200,dedio2019britain,features,feature,fig2
+33,Old French (Anglo-Norman),,,,angl1258,800,dedio2019britain,features,feature,fig1
+34,Old French (Francien),,,,oldf1239,1200,dedio2019britain,features,feature,fig2
+35,Old French (Francien),,,,oldf1239,800,dedio2019britain,features,feature,fig1
+36,Old Frisian,,,,oldf1241,1200,dedio2019britain,features,feature,fig2
+37,Old High German,,,,oldh1241,800,dedio2019britain,features,feature,fig1
+38,Old Irish,,,,oldi1246,800,dedio2019britain,features,feature,fig1
+39,Old Norse,,,,oldn1244,1200,dedio2019britain,features,feature,fig2
+40,Old Norse,,,,oldn1244,800,dedio2019britain,features,feature,fig1
+41,Old Saxon,,,,olds1250,800,dedio2019britain,features,feature,fig1
+42,Older Scots,,,,scot1243,1200,dedio2019britain,features,feature,fig2
+43,Picard,,,,pica1241,1900,dedio2019britain,features,feature,fig3
+44,Scots,,,,scot1243,1900,dedio2019britain,features,feature,fig3
+45,Scottish Gaelic,,,,scot1245,1900,dedio2019britain,features,feature,fig3
+46,Southern Welsh,,,,sout2673,1900,dedio2019britain,features,feature,fig3
