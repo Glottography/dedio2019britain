@@ -15,7 +15,7 @@ property | value
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dc:spatial](http://purl.org/dc/terms/spatial) | westlimit=-25.3; southlimit=42.3; eastlimit=31.3; northlimit=71.3
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/Glottography/dedio2019britain
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/Glottography/dedio2019britain/tree/cbf335a">Glottography/dedio2019britain cbf335a</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2">Glottolog v5.2</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/Glottography/dedio2019britain/tree/2c8fb4c">Glottography/dedio2019britain 2c8fb4c</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2">Glottolog v5.2</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | dedio2019britain
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -26,7 +26,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF MediaTable](http://cldf.clld.org/v1.0/terms.rdf#MediaTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 3
+[dc:extent](http://purl.org/dc/terms/extent) | 4
 
 
 ### Columns
@@ -45,7 +45,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 32
+[dc:extent](http://purl.org/dc/terms/extent) | 47
 
 
 ### Columns

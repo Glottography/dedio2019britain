@@ -1,4 +1,19 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+angl1258,Anglo-Norman,,,,angl1258,,32 33,dialect,Indo-European,dialects
+dith1234,Dithmarsch,,,,dith1234,,22,dialect,Indo-European,dialects
+east2288,East Frisian Low Saxon,,52.9713,7.73549,east2288,,23,dialect,Indo-European,dialects
+iris1255,Irish English,,,,iris1255,,5,dialect,Indo-European,dialects
+jerr1238,Jerriais,,49.2123,-2.1325,jerr1238,,6,dialect,Indo-European,dialects
+lang1337,Langues d'Oil,,,,lang1337,,27,dialect,Indo-European,dialects
+midd1359,Middle Breton,,,,midd1359,,9,dialect,Indo-European,dialects
+midd1360,Middle Irish (10-12th century),,,,midd1360,,14,dialect,Indo-European,dialects
+midd1363,Middle Welsh,,,,midd1363,,16,dialect,Indo-European,dialects
+midd1380,Middle Cornish,,,,midd1380,,10,dialect,Indo-European,dialects
+norm1245,Normand,,49.081,-0.6591,norm1245,,27,dialect,Indo-European,dialects
+nort2668,Northern Welsh,,,,nort2668,,28,dialect,Indo-European,dialects
+oldd1238,Old Dutch,,,,oldd1238,,30,dialect,Indo-European,dialects
+oldi1246,Old Irish (8-9th century),,,,oldi1246,,38,dialect,Indo-European,dialects
+sout2673,Southern Welsh,,,,sout2673,,46,dialect,Indo-European,dialects
 bret1244,Breton,,48.2452,-3.78934,bret1244,,1 9,language,Indo-European,languages
 corn1251,Cornish,,50.5233,-4.18619,corn1251,,7 10,language,Indo-European,languages
 dani1285,Danish,,54.8655,9.36284,dani1285,,2,language,Indo-European,languages
