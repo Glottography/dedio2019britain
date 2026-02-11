@@ -4,5 +4,6 @@
     "description": "This dataset provides overlapping, approximate ranges for Indo-European languages spoken in the British Isles between 800 and 1900 AD.",
     "license": "CC-BY-4.0",
     "url": null,
+    "zenodo_concept_doi": "10.5281/zenodo.17334235",
     "citation": "Dedio, Stefan, Peter Ranacher & Paul Widmer. 2019. Evidence for Britain and Ireland as a Linguistic Area. Language 95(3). 498\u2013522. doi: 10.1353/lan.2019.0054."
 }
