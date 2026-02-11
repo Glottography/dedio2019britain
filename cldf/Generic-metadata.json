@@ -17,13 +17,17 @@
         {
             "rdf:about": "https://github.com/Glottography/dedio2019britain",
             "rdf:type": "prov:Entity",
+<<<<<<< HEAD
             "dc:created": "d641028",
+=======
+            "dc:created": "v1.0",
+>>>>>>> 8857a08839170099b17d6af8e2bab06722832976
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2",
+            "dc:created": "v5.2.1-20-g8e82dff6e0",
             "dc:title": "Glottolog"
         }
     ],
